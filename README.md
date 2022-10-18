@@ -32,15 +32,14 @@
 - #### Clone Repository, Masuk ke folder project dan install package
 
 bash
-git clone https://github.com/rajastra/Tap-Tap-Defense
+git clone https://github.com/Dutarega135/UTS_RA_PAM_120140135
 
-cd Tap-Tap-Defense
+cd UTS_RA_PAM_120140135
 
 npm install
 
 - ### Menjalankan Aplikasi
 
-bash
 npm start
 
 ## Penjelasan Feature
