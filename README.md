@@ -31,16 +31,15 @@
 
 - #### Clone Repository, Masuk ke folder project dan install package
 
-bash
-git clone https://github.com/Dutarega135/UTS_RA_PAM_120140135
+- git clone https://github.com/Dutarega135/UTS_RA_PAM_120140135
 
-cd UTS_RA_PAM_120140135
+- cd UTS_RA_PAM_120140135
 
-npm install
+- npm install
 
 - ### Menjalankan Aplikasi
 
-npm start
+- npm start
 
 ## Penjelasan Feature
 
