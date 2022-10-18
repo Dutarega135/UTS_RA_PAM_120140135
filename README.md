@@ -27,9 +27,9 @@
 
 ## Cara menjalankan Aplikasi
 
-- Syarat utama yaitu sudah mengintal node.js dan juga git
+1) Syarat utama yaitu sudah mengintal node.js dan juga git
 
-- #### Clone Repository, Masuk ke folder project dan install package
+2) #### Clone Repository, Masuk ke folder project dan install package
 
 - git clone https://github.com/Dutarega135/UTS_RA_PAM_120140135
 
@@ -37,7 +37,7 @@
 
 - npm install
 
-- ### Menjalankan Aplikasi
+3) ### Menjalankan Aplikasi
 
 - npm start
 
